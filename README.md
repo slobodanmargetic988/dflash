@@ -1,4 +1,6 @@
 # DFlash: Block Diffusion for Flash Speculative Decoding
+
+[![Support my work on this fork](https://img.shields.io/badge/Support%20my%20work%20on%20this%20fork-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/slobodanmargetic988)
 [**Paper**](https://arxiv.org/abs/2602.06036) | [**Blog**](https://z-lab.ai/projects/dflash/) | [**Models**](https://huggingface.co/collections/z-lab/dflash)
 
 **DFlash** is a lightweight **block diffusion** model designed for speculative decoding. It enables efficient and high-quality parallel drafting.
